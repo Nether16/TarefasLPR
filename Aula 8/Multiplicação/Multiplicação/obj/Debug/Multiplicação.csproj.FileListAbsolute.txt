@@ -1,0 +1,6 @@
+C:\Users\Alunos\source\repos\Multiplicação\Multiplicação\bin\Debug\Multiplicação.exe.config
+C:\Users\Alunos\source\repos\Multiplicação\Multiplicação\bin\Debug\Multiplicação.exe
+C:\Users\Alunos\source\repos\Multiplicação\Multiplicação\bin\Debug\Multiplicação.pdb
+C:\Users\Alunos\source\repos\Multiplicação\Multiplicação\obj\Debug\Multiplicação.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\Multiplicação\Multiplicação\obj\Debug\Multiplicação.exe
+C:\Users\Alunos\source\repos\Multiplicação\Multiplicação\obj\Debug\Multiplicação.pdb
