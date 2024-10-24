@@ -32,7 +32,7 @@ int main()
     auto it2 = nums.begin();
     advance(it2, 1);
     for (auto num : nums) {
-        advance(it, 1);
+        advance(it, 1);      
         advance(it2, 1);
         if (*it != *it2) {
             cout << *it << " ";

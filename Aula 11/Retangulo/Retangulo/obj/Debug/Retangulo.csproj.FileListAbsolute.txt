@@ -1,0 +1,7 @@
+C:\Users\Alunos\source\repos\Retangulo\Retangulo\bin\Debug\Retangulo.exe.config
+C:\Users\Alunos\source\repos\Retangulo\Retangulo\bin\Debug\Retangulo.exe
+C:\Users\Alunos\source\repos\Retangulo\Retangulo\bin\Debug\Retangulo.pdb
+C:\Users\Alunos\source\repos\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\Retangulo\Retangulo\obj\Debug\Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\Retangulo\Retangulo\obj\Debug\Retangulo.exe
+C:\Users\Alunos\source\repos\Retangulo\Retangulo\obj\Debug\Retangulo.pdb

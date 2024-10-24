@@ -1,0 +1,7 @@
+C:\Users\Alunos\source\repos\AlunosMatriculados\AlunosMatriculados\bin\Debug\AlunosMatriculados.exe.config
+C:\Users\Alunos\source\repos\AlunosMatriculados\AlunosMatriculados\bin\Debug\AlunosMatriculados.exe
+C:\Users\Alunos\source\repos\AlunosMatriculados\AlunosMatriculados\bin\Debug\AlunosMatriculados.pdb
+C:\Users\Alunos\source\repos\AlunosMatriculados\AlunosMatriculados\obj\Debug\AlunosMatriculados.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\AlunosMatriculados\AlunosMatriculados\obj\Debug\AlunosMatriculados.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\AlunosMatriculados\AlunosMatriculados\obj\Debug\AlunosMatriculados.exe
+C:\Users\Alunos\source\repos\AlunosMatriculados\AlunosMatriculados\obj\Debug\AlunosMatriculados.pdb

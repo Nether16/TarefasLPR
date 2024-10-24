@@ -1,0 +1,6 @@
+C:\Users\Alunos\source\repos\Funcionario\Funcionario\bin\Debug\CalcularImpostoDeFuncionario.exe.config
+C:\Users\Alunos\source\repos\Funcionario\Funcionario\bin\Debug\CalcularImpostoDeFuncionario.exe
+C:\Users\Alunos\source\repos\Funcionario\Funcionario\bin\Debug\CalcularImpostoDeFuncionario.pdb
+C:\Users\Alunos\source\repos\Funcionario\Funcionario\obj\Debug\CalcularImpostoDeFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\Funcionario\Funcionario\obj\Debug\CalcularImpostoDeFuncionario.exe
+C:\Users\Alunos\source\repos\Funcionario\Funcionario\obj\Debug\CalcularImpostoDeFuncionario.pdb

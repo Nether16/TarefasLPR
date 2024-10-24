@@ -5,3 +5,10 @@ C:\Users\Alunos\source\repos\Exercício 1\Exercício 1\obj\Debug\Exercício 1.cs
 C:\Users\Alunos\source\repos\Exercício 1\Exercício 1\obj\Debug\Exercício 1.csproj.CoreCompileInputs.cache
 C:\Users\Alunos\source\repos\Exercício 1\Exercício 1\obj\Debug\Exercício 1.exe
 C:\Users\Alunos\source\repos\Exercício 1\Exercício 1\obj\Debug\Exercício 1.pdb
+C:\Users\Alunos\Documents\GitHub\TarefasLPR\Aula 10\Exercício 1\Exercício 1\bin\Debug\Exercício 1.exe.config
+C:\Users\Alunos\Documents\GitHub\TarefasLPR\Aula 10\Exercício 1\Exercício 1\bin\Debug\Exercício 1.exe
+C:\Users\Alunos\Documents\GitHub\TarefasLPR\Aula 10\Exercício 1\Exercício 1\bin\Debug\Exercício 1.pdb
+C:\Users\Alunos\Documents\GitHub\TarefasLPR\Aula 10\Exercício 1\Exercício 1\obj\Debug\Exercício 1.csproj.AssemblyReference.cache
+C:\Users\Alunos\Documents\GitHub\TarefasLPR\Aula 10\Exercício 1\Exercício 1\obj\Debug\Exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\GitHub\TarefasLPR\Aula 10\Exercício 1\Exercício 1\obj\Debug\Exercício 1.exe
+C:\Users\Alunos\Documents\GitHub\TarefasLPR\Aula 10\Exercício 1\Exercício 1\obj\Debug\Exercício 1.pdb
